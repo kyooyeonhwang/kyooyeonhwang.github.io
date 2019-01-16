@@ -10,12 +10,12 @@ exclude:
 
 remote_theme : bencentra/centrarium
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: HTML5, CSS3 블로그
+subtitle: ""
+email: kyoo119@gmail.com
+name: KyooYeon Hwang
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  HTML5, CSS3 블로그.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
